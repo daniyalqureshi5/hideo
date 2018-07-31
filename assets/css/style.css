@@ -1,0 +1,595 @@
+.navbar-default{
+	background-color: transparent;
+	border: 0;
+	width: 100%;
+	margin-bottom: 22px;
+}
+.nav.navbar-nav li a:hover, .nav.navbar-nav li.current a{
+	background-color: #f7f7f7;
+	color: #22aba6;
+	border-bottom: 4px solid #22aba6;
+}
+
+.hideo{
+	text-align: center;
+}
+.hideo h1{
+	font-size: 30px;
+	color: #333333; 
+}
+.hideo p{
+	font-size: 21px;
+	color: #999999;
+	margin-bottom: 112px;
+}
+.one-third{
+	text-align: center;
+	margin-bottom: 100px;
+}
+.one-third h1{
+	font-size: 23px;
+}
+.one-third p{
+	font-size: 17px;
+	color: #777777;
+}
+.man-area ul{
+	list-style: none;
+}
+.man-area ul li a{
+	font-size: 18px;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+	margin-bottom: 5px;
+}
+.man-area ul li a i {
+	margin-right: 4px;
+
+}
+.man-area ul li a:hover{
+	background-color: #22aba6;
+	color: white;
+}
+.man-area img{
+	width: 100%;
+}
+.man-area h1{
+	margin-bottom: 30px;
+	font-size: 29px;
+}
+.man-area h2{
+	font-size: 20px;
+	line-height: 30px;
+	color: #777777;
+}
+.img{
+	margin-bottom: 28px;
+}
+.bg{
+	background-color: #f7f7f7;
+}
+.bg-2{
+	background-image: url('../img/bg_robot.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.rocket{
+	text-align: center;
+	margin-top: 62px;
+	margin-bottom: 71px;
+	border: 2px solid #b9b9b8;
+	border-radius: 15px;
+}
+.overlay{
+	background-color  :rgba(0,0,0,0.5); 
+}
+.rocket i{
+	font-size: 40px;
+	color: white;
+	border: 2px solid #b9b9b8;
+	width: 82px;
+	height: 80px;
+	line-height: 80px;
+	border-radius: 50%;
+	margin-top: 35px;
+}
+.rocket h1{
+	color: white;
+	font-size: 40px;
+}
+.our-team{
+	margin-bottom: 107px;
+	text-align: center;
+}
+.our-team h1{
+	font-size: 24px;
+	color: #22aba6;
+}
+.our-team p{
+	font-size: 16px;
+}
+.our-team img{
+	width: 100%;
+}
+.meet{
+	border: 2px dotted #d9d9d9;
+}
+.keep{
+	margin-bottom: 23px;	
+	border: 2px dotted #dddddd;
+	border-radius: 20px;
+}
+.in-touch{
+	margin-left: 89px;
+	background-color: #22aba6;
+	border: 2px dotted #dddddd;
+	margin-top: 47px;
+	border-radius: 15px;
+	margin-bottom: 309px;
+	width: 286px;
+	height: 194px;
+	padding-left: 27px;
+}
+.in-touch h1{
+	font-size: 24px;
+	color: white;
+}
+.in-touch p i{
+	padding-right:13px;
+}
+.in-touch p{
+	color: white;
+	font-size: 15px;
+}
+.foam h1{
+	padding-top: 25px;
+	font-size: 29px;	
+}
+input{
+	width: 286px;
+	height: 42px;
+	line-height: 42px;
+	background-color: #f7f7f7;
+	border: 1px solid  #dddddd;
+	border-radius: 7px;
+	padding-left: 14px;
+}
+textarea{
+	width: 286px;
+	height: 86px;
+	padding-top: 14px;
+	background-color: #f7f7f7;
+	border: 1px solid  #dddddd;
+	border-radius: 7px;
+	padding-left: 14px;
+
+}
+.bg-3{
+	background-color: #22aba6;
+}
+.template{
+	text-align: center;
+}
+.template h1{
+	padding-top: 72px;
+	margin-bottom: 23px;
+	color: white;
+}
+.template p{
+	color: white;
+	margin-bottom: 57px;
+}
+.template button i{
+	padding-right: 12px;
+}
+.template button{
+	width: 145px;
+	border-radius: 15px;
+	background-color: #4863ae;
+	border: 1px solid #3d5494;
+	height: 48px;
+	line-height: 48px;
+	color: white;
+	font-size: 18px;
+	margin-bottom: 56px;
+}
+button.tw{
+	background-color: #46c0fb;
+	border: 1px solid #3ca4d6;
+}
+footer{
+	background-color: #eeeeee;
+}
+.last-area{
+	text-align: center;
+	padding-top: 26px;
+}
+.last-area ul{
+	list-style: none;
+}
+.last-area ul li{
+	display: inline;
+}
+.last-area ul li a i{
+	font-size: 20px;
+	border: 2px dotted #22aba6;
+	color: #22aba6;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+}
+.last-area h4 span{
+	color: #22aba6;
+}
+.last-area h4{
+	font-size: 13px;
+}
+/*---------new page-------------*/
+
+.bg{
+	margin-bottom: 80px;
+	padding-top: 43px;
+	padding-bottom: 54px;
+	background-color: #5e5e5e;
+}
+.our h1{
+	color: white;
+}
+.our p{
+	color: white;
+}
+.home ul{
+	padding-top: 32px;
+	list-style: none;
+}
+.home ul li {
+	display: inline;
+}
+.home ul li a{
+	color: white;
+}
+.john{
+	border-radius: 0px 0px 10px 10px;
+	background-color: #3d3d3d;
+	border: 2px solid #3d3d3d;
+}
+.john h1{
+	font-size: 24px;
+	color: white;
+	margin-left: 23px;
+}
+.john p{
+	font-size: 17px;
+	color: white;
+	margin-left: 23px;
+}
+.doe{
+	margin-bottom: 43px;
+	background-color: #f7f7f7;
+	border: 2px dotted #d2d2d2;
+	border-top: 0;
+	border-radius: 0px 0px 10px 10px;
+}
+.doe h2{
+	padding-bottom: 21px;
+	margin-left: 23px;
+	padding-top: 18px;
+	font-size: 23px;
+	margin-top: 0;
+}
+.doe ul{
+	list-style: none;
+}
+.doe ul li{
+	display: inline;
+}
+.doe ul li a i{
+	border: 2px dotted #999999;
+	width: 35px;
+	height: 36px;
+	line-height: 36px;
+	border-radius: 50px;
+	text-align: center;
+	color: black;
+}
+.prefect{
+	margin-bottom: 23px;
+	background-color: #f7f7f7;
+	border: 2px solid #ebebeb;
+}
+.prefect h1{
+	margin-top: 29px;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	padding-left: 13px;
+	display: inline-block;
+	padding-right: 21px;
+
+}
+.prefect p{
+	font-size: 19px;
+	padding-left: 13px;
+	color: #444444;
+}
+button.team i{
+	padding-right: 1px;
+}
+button.team{
+	background-color: #3d3d3d;
+	margin-top: 37px;
+	float: right;
+	color: white;
+	height: 34px;
+	width: 182px;	
+}
+.our h1{
+	color: black;
+}
+.team-v2 img{
+	border-radius: 20px;
+	float: left;
+	margin-right: 34px;
+}
+.team-v2 h1{
+	padding-bottom: 23px;	
+	font-size: 23px;
+}
+.team-v2 p{
+	padding-bottom: 23px;
+	color: #777777;
+}
+.team-v2 h4{
+	padding-bottom: 23px;	
+}
+.team-v2 ul{
+	list-style: none;
+}
+.team-v2 ul li{
+	display: inline;
+}
+.team-v2 ul li a i{
+	font-size: 20px;
+	text-align: center;
+	border: 2px dotted #3d3d3d;
+	color: #3d3d3d;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+}
+	
+.our{
+	padding-top: 68px;
+}
+.our h3{
+	font-size: 17px;
+	color: #777777;
+	line-height: 29px;
+}
+.bg-3{
+	background-color: #f7f7f7;
+}
+.neko img{
+	padding-top: 39px;
+}
+
+.neko{
+	padding-top: 23px;
+}
+.neko i{
+	padding-right: 12px;
+
+}
+.neko h1{
+	font-size: 28px;
+}
+.neko p{
+	margin-top: 23px;
+}
+
+.neko ul{
+	list-style: none;
+}
+.neko ul li{
+	display: inline;
+}
+.neko ul li a i{
+	font-size: 20px;
+	text-align: center;
+	border: 2px dotted #3d3d3d;
+	color: #3d3d3d;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+}
+/*----------new page----*/
+
+.bg-4{
+	background-color: #5e5e5e;
+}
+.about{
+	padding-top: 45px;
+	padding-bottom: 52px;
+}
+.about h1{
+	font-size: 39px;
+	color: white;
+	float: left;
+}
+.about p{
+	text-align: right;	
+	color: white;
+	padding-top: 28px;
+}
+.mission h1{
+	text-align: center;
+	color: #373636;
+	padding-top: 55px;
+}
+.mission p{
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 108px;
+}
+.slider{
+	padding-bottom: 144px;
+}
+.bg-5{
+	background-color: #3d3d3d;
+}
+.meet-our h1{
+	text-align: center;
+	color: white;
+	padding-top: 69px;
+	font-size: 39px;
+	margin-bottom: 57px;	
+}
+.bg-5{
+	padding-bottom: 77px;
+	margin-bottom: 42px;
+}
+.border{
+	border: 2px dotted #333333;
+}
+.team img{
+	width: 100%;
+}
+.team h1{
+	text-align: center;
+	font-size: 23px;
+	color: white;
+	margin-bottom: 20px;
+}
+.team p{
+	text-align: center;
+	color: white;
+	margin-bottom: 29px;
+}
+
+
+/*******************************
+* Does not work properly if "in" is added after "collapse".
+* Get free snippets on bootpen.com
+*******************************/
+    .panel-group .panel {
+        border-radius: 0;
+        box-shadow: none;
+        border-color: #EEEEEE;
+    }
+
+    .panel-default > .panel-heading {
+        padding: 0;
+        border-radius: 0;
+        color: #212121;
+        background-color: #FAFAFA;
+        border-color: #EEEEEE;
+    }
+
+    .panel-title {
+        font-size: 14px;
+    }
+
+    .panel-title > a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+    }
+
+    .more-less {
+        float: right;
+        color: #212121;
+    }
+
+    .panel-default > .panel-heading + .panel-collapse > .panel-body {
+        border-top-color: #EEEEEE;
+    }
+
+/* ----- v CAN BE DELETED v ----- */
+
+
+.demo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.relation hr{
+	height: 45px;
+	background-color: red;
+	border: 0;
+	position: relative;
+}
+.relation hr:after{
+	content: "50%";
+	color: white;
+	background-color: #3d3d3d;
+	position: absolute;
+	width: 50%;
+	height: 45px;
+	line-height: 45px;
+	text-align: right;
+}
+hr.width:after{
+	content: "80%";
+	width: 80%;
+}
+hr.bullsit:after{
+	content: "100%";
+	width: 100%;
+}
+
+/*--------new page---------*/
+
+.address h1{
+	font-size: 30px;
+	margin-top: 40px;
+	margin-bottom: 24px;
+}
+.address p i{
+	padding-right: 13px;
+}
+.form h1{
+	font-size: 20px;
+	margin-top: 46px;
+	margin-bottom:15px;	
+}
+button.map{
+	margin-top: 17px;
+	height: 50px;
+	width: 95px;
+	line-height: 50px;
+	border-radius: 20px;
+	font-size: 18px;
+	border: 2px solid #d2d2d2;
+}
+.comment h1{
+	font-size: 20px;
+	margin-top: 46px;
+	margin-bottom :15px;
+}
+.security button{
+	background-color: #bcbcbc;
+	width: 107px;
+	height: 44px;
+	line-height: 44px;
+	border: 0;
+	margin-top: 23px;
+	margin-right: 23px;
+}
+.security h1{
+	font-size: 18px;
+}
+.security input{
+	width: 181px;
+
+}
+.google-map{
+	margin-top: 46px;
+}
+
